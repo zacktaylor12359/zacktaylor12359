@@ -1,7 +1,6 @@
 👋 Hi, I’m @zacktaylor12359
 
 I make amature websites and mobile apps.
-Sometimes I work on cool Arduino projects for my girlfriend.
 How's bout you pay me to write your friggn software or somethin?
 
 -zacktaylor159@gmail.com
